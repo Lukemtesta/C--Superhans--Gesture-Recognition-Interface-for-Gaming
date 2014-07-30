@@ -1,0 +1,4 @@
+1 Setup
+2 Connectivity
+5 Exit
+6 

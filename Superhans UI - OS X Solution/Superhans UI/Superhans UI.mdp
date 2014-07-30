@@ -1,0 +1,66 @@
+<Project name="Superhans UI" fileversion="2.0" DefaultNamespace="WindowsFormsApplication1" language="C#" Configuration="Debug" Platform="x86" AppDesignerFolder="Properties" AssemblyName="Superhans UI" TargetFrameworkVersion="v4.0" TargetFrameworkProfile="Client" FileAlignment="512" targetFramework="4.0" ctype="DotNetProject">
+  <Configurations active="Debug|x86">
+    <Configuration name="Debug|x86" PlatformTarget="x86" DebugType="full" Optimize="false" DefineConstants="DEBUG;TRACE" WarningLevel="4" ctype="DotNetProjectConfiguration">
+      <Output directory="bin/Debug/" assembly="Superhans UI" />
+      <Build debugmode="True" target="WinExe" />
+      <Execution consolepause="True" runwithwarnings="True" runtime="MsNet" />
+      <CodeGeneration compiler="Mcs" warninglevel="4" optimize="False" unsafecodeallowed="False" generateoverflowchecks="False" definesymbols="DEBUG;TRACE" ctype="CSharpCompilerParameters" />
+    </Configuration>
+    <Configuration name="Release|x86" PlatformTarget="x86" DebugType="pdbonly" Optimize="true" DefineConstants="TRACE" WarningLevel="4" ctype="DotNetProjectConfiguration">
+      <Output directory="bin/Release/" assembly="Superhans UI" />
+      <Build debugmode="False" target="WinExe" />
+      <Execution consolepause="True" runwithwarnings="True" runtime="MsNet" />
+      <CodeGeneration compiler="Mcs" warninglevel="4" optimize="True" unsafecodeallowed="False" generateoverflowchecks="False" definesymbols="TRACE" ctype="CSharpCompilerParameters" />
+    </Configuration>
+  </Configurations>
+  <Contents>
+    <File subtype="Code" buildaction="Compile" name="Animation.cs" />
+    <File subtype="Code" buildaction="Compile" name="CalibrationForm.cs" contentType="Form" />
+    <File subtype="Code" buildaction="Compile" name="CalibrationForm.Designer.cs" dependson="/Users/luketesta/Desktop/Superhans UI/Superhans UI/CalibrationForm.cs" />
+    <File subtype="Code" buildaction="Compile" name="ExistingGames.cs" contentType="Form" />
+    <File subtype="Code" buildaction="Compile" name="ExistingGames.Designer.cs" dependson="/Users/luketesta/Desktop/Superhans UI/Superhans UI/ExistingGames.cs" />
+    <File subtype="Code" buildaction="Compile" name="Matrix.cs" />
+    <File subtype="Code" buildaction="Compile" name="TextureGroups.cs" />
+    <File subtype="Code" buildaction="Compile" name="ImageGroup.cs" />
+    <File subtype="Code" buildaction="Compile" name="MainMenu.cs" contentType="Form" />
+    <File subtype="Code" buildaction="Compile" name="MainMenu.Designer.cs" dependson="/Users/luketesta/Desktop/Superhans UI/Superhans UI/MainMenu.cs" />
+    <File subtype="Code" buildaction="Compile" name="Program.cs" />
+    <File subtype="Code" buildaction="Compile" name="Properties/AssemblyInfo.cs" />
+    <File subtype="Code" buildaction="EmbedAsResource" name="CalibrationForm.resx" dependson="/Users/luketesta/Desktop/Superhans UI/Superhans UI/CalibrationForm.cs" resource_id="WindowsFormsApplication1.CalibrationForm.resources" />
+    <File subtype="Code" buildaction="EmbedAsResource" name="ExistingGames.resx" dependson="/Users/luketesta/Desktop/Superhans UI/Superhans UI/ExistingGames.cs" resource_id="WindowsFormsApplication1.ExistingGames.resources" />
+    <File subtype="Code" buildaction="EmbedAsResource" name="MainMenu.resx" dependson="/Users/luketesta/Desktop/Superhans UI/Superhans UI/MainMenu.cs" resource_id="WindowsFormsApplication1.MainMenu.resources" />
+    <File subtype="Code" buildaction="EmbedAsResource" name="Properties/Resources.resx" contentType="Designer" generator="ResXFileCodeGenerator" resource_id="WindowsFormsApplication1.Properties.Resources.resources" />
+    <File subtype="Code" buildaction="Compile" name="Properties/Resources.Designer.cs" dependson="/Users/luketesta/Desktop/Superhans UI/Superhans UI/Properties/Resources.resx" />
+    <File subtype="Code" buildaction="Nothing" name="Properties/Settings.settings" generator="SettingsSingleFileGenerator" />
+    <File subtype="Code" buildaction="Compile" name="Properties/Settings.Designer.cs" dependson="/Users/luketesta/Desktop/Superhans UI/Superhans UI/Properties/Settings.settings" />
+    <File subtype="Code" buildaction="EmbedAsResource" name="gtk-gui/gui.stetic" />
+    <File subtype="Code" buildaction="Compile" name="gtk-gui/generated.cs" />
+    <File subtype="Code" buildaction="Compile" name="gtk-gui/WindowsFormsApplication1.Window.cs" />
+    <File subtype="Code" buildaction="Nothing" name="Resources/Setup.PNG" />
+    <File subtype="Code" buildaction="Nothing" name="Resources/windows8_metro_green_1920_1080.jpg" />
+    <File subtype="Code" buildaction="Nothing" name="Resources/CalibrationMenu.PNG" />
+    <File subtype="Code" buildaction="Nothing" name="Resources/CalibrationMenu1.PNG" />
+    <File subtype="Code" buildaction="Nothing" name="Resources/CalibrationMenu2.PNG" />
+    <File subtype="Code" buildaction="Nothing" name="Resources/CalibrationColour.PNG" />
+    <File subtype="Code" buildaction="Nothing" name="Resources/BackCalibration.png" />
+    <File subtype="Code" buildaction="Nothing" name="Resources/BackCalibration1.png" />
+    <File subtype="Code" buildaction="Nothing" name="Resources/BackCalibration2.png" />
+    <File subtype="Code" buildaction="Nothing" name="Resources/BackCalibration3.png" />
+    <File subtype="Code" buildaction="Nothing" name="Resources/ExistingGamesMenu.PNG" />
+  </Contents>
+  <References>
+    <ProjectReference type="Package" specificVersion="False" localcopy="True" refto="Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <ProjectReference type="Package" specificVersion="False" localcopy="True" refto="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    <ProjectReference type="Package" specificVersion="False" localcopy="True" refto="System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    <ProjectReference type="Package" specificVersion="False" localcopy="True" refto="System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    <ProjectReference type="Package" specificVersion="False" localcopy="True" refto="System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    <ProjectReference type="Package" specificVersion="False" localcopy="True" refto="Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <ProjectReference type="Package" specificVersion="False" localcopy="True" refto="System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    <ProjectReference type="Package" specificVersion="False" localcopy="True" refto="System.Deployment" />
+    <ProjectReference type="Package" specificVersion="False" localcopy="True" refto="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <ProjectReference type="Package" specificVersion="False" localcopy="True" refto="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    <ProjectReference type="Package" specificVersion="False" localcopy="True" refto="System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    <ProjectReference type="Package" localcopy="True" refto="gtk-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
+    <ProjectReference type="Package" localcopy="True" refto="gdk-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
+  </References>
+</Project>

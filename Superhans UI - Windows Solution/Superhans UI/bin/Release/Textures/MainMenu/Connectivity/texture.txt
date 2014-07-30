@@ -1,0 +1,4 @@
+1 AutoConnect
+2 DefaultControl
+5 BackConnectivity
+6 DeviceID

@@ -1,0 +1,35 @@
+How much does the Superhans cost?
+You can purchase a manufactured Superhans model from any of our recommended retailers. The GUI and Developer's tools are free, however do require Superhans to operate. Keen hobbyists are encouraged to have a go at making their own. You can refer to our instructables page from the Superhans UI to find out instructions on how to do this.
+How do I install the GUI?
+Go to the following "sourceforge" link to download the installer for your respective operating system. Open the installer and follow the instructions. 
+The UI is only available on Mac, Windows and Linux. Android, BBM and iOS applications are in working progress. 
+The PS4 and Xbox One do not require a GUI. The Superhans will auto-detect the console it is connected to.
+Do I need to run the GUI to make Superhans work?
+For Windows, Mac and Linux, the GUI initially needs to be installed for the one-time connectivity setup. However once installed, you can enable or disable auto-connection to the Superhans.
+How do I setup Superhans' BlueTooth connection?
+To auto-detect the Superhans, simply open the UI, navigate to the Connectivity menu and select auto-detect. Finally authenticate the BlueTooth connection on your machine the usual way. The BlueTooth device ID will be sniffed from the device and viewed under the auto-detect menu on the UI.
+Once enabled, Superhans can act as a wireless mouse but doesn't override your standard mouse and keyboard features.
+Auto-detect can be manually enabled or disabled.
+Can I query the Superhans battery life?
+
+
+I think the finger or tilt sensors are broken. How can I check?
+Open the calibration tool under Setup on the UI. This will display a graphical hand that responds to Superhans' functionality. Use this to verify the sensors are not working. 
+If the Superhans has a fault, contact our help team.
+Can I change the Sensitivity?
+
+I'd like to build one. How do I go about this?
+Take a look at our Instructables page. You can navigate to the page via the UI. Select Community->Developers->Instructables.
+The glove feels unnatural. Can I change the hand orientation?
+To calibrate the Superhans open the Calibration menu under setup on the UI. Once opened a graphical hand will display moving to Superhans' features. On your Superhans press the calibration button to save the current position as your hand's natural position. Superhans takes care of the rest.
+This sounds like a glorified Wii Remote. How does it differ from Wii?
+Superhans does not need to be in the line-of-site with the Wii console - And it plays in pitch black! It is multiple-platform compatible and relies on being operated through all natural hand gestures. USers can also control the calibration of Superhans. Not to mention our online community and developing base!
+How can I setup Superhans with the PS4, Xbox One, Windows, Mac or Linux operating system?
+For Windows, Mac, Linux, Android and iOS see how do I install the GUI.
+For PS4 and Xbox One, just plug-in and play via USB. Wireless connectivity is currently working progress.
+Can the Superhans remember my game mapping?
+Unfortunately not. We are not licensed to work directly with game publishers. This is something we are interested in the future. We are happy to co-operate with developers interested in this feature. Please contact us via the Developer's page on our website.
+Superhans is setup to automatically calibrate gestures to the standard controls of console and computer games. If this is setup not to your taste, you can change the game controls the usual way. We do offer a service to remember what manual mapping you have undertaken for games. This can be found on the UI under Setup->Key Mapping.
+My question is not on here. How do I contact customer support?
+For Developers: superhans@communitySupport.com
+For Users: superhans@customerSupport.com

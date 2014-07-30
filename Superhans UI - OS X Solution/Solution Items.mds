@@ -1,0 +1,8 @@
+<Combine name="Solution Items" fileversion="2.0">
+  <Configurations active="Debug|x86">
+    <Configuration name="Debug|x86" ctype="CombineConfiguration" />
+    <Configuration name="Release|x86" ctype="CombineConfiguration" />
+  </Configurations>
+  <StartMode single="True" />
+  <Entries />
+</Combine>

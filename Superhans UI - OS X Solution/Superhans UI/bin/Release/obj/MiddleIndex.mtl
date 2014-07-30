@@ -1,0 +1,22 @@
+# Blender MTL File: 'sectionMiddleIndex.blend'
+# Material Count: 2
+
+newmtl Material.004
+Ns 21.568627
+Ka 0.000000 0.000000 0.000000
+Kd 0.455850 0.360450 0.305790
+Ks 0.155108 0.145097 0.106960
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/luketesta/Downloads/66039_hand_2_by_DennisH2010/HAND_N .jpg
+map_Bump /Users/luketesta/Downloads/66039_hand_2_by_DennisH2010/HAND_N .jpg
+
+newmtl Material.043
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2

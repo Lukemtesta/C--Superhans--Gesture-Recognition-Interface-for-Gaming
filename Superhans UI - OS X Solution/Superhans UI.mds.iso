@@ -1,0 +1,20 @@
+<Combine fileversion="2.0">
+  <Configurations active="Debug|x86">
+    <Configuration name="Debug|x86" ctype="CombineConfiguration">
+      <Entry build="True" name="Superhans UI" configuration="Debug|x86" />
+      <Entry build="True" name="Solution Items" configuration="Debug|x86" />
+    </Configuration>
+    <Configuration name="Release|x86" ctype="CombineConfiguration">
+      <Entry build="True" name="Superhans UI" configuration="Release|x86" />
+      <Entry build="True" name="Solution Items" configuration="Release|x86" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="Superhans UI" single="True">
+    <Execute type="None" entry="Superhans UI" />
+    <Execute type="None" entry="Solution Items" />
+  </StartMode>
+  <Entries>
+    <Entry filename="Superhans UI/Superhans UI.mdp" />
+    <Entry filename="Solution Items.mds" />
+  </Entries>
+</Combine>

@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Superhans UI/Program.cs">
+    <Files>
+      <File FileName="Superhans UI/MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Superhans UI/gtk-gui/generated.cs" Line="1" Column="1" />
+      <File FileName="Superhans UI/CalibrationForm.cs" Line="1" Column="1" />
+      <File FileName="Superhans UI/ExistingGames.cs" Line="1" Column="1" />
+      <File FileName="Superhans UI/MainMenu.Designer.cs" Line="1" Column="1" />
+      <File FileName="Superhans UI/MainMenu.resx" Line="1" Column="1" />
+      <File FileName="Superhans UI/Animation.cs" Line="1" Column="1" />
+      <File FileName="Superhans UI/Program.cs" Line="8" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

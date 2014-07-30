@@ -1,0 +1,10 @@
+/Users/luketesta/Desktop/Superhans UI/Superhans UI/obj/x86/Release/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/luketesta/Desktop/Superhans UI/Superhans UI/obj/x86/Release/WindowsFormsApplication1.gtk-gui.gui.stetic
+/Users/luketesta/Desktop/Superhans UI/Superhans UI/obj/x86/Release/WindowsFormsApplication1.CalibrationForm.resources
+/Users/luketesta/Desktop/Superhans UI/Superhans UI/obj/x86/Release/WindowsFormsApplication1.ExistingGames.resources
+/Users/luketesta/Desktop/Superhans UI/Superhans UI/obj/x86/Release/WindowsFormsApplication1.MainMenu.resources
+/Users/luketesta/Desktop/Superhans UI/Superhans UI/obj/x86/Release/WindowsFormsApplication1.Properties.Resources.resources
+/Users/luketesta/Desktop/Superhans UI/Superhans UI/bin/Release/Superhans UI.exe.mdb
+/Users/luketesta/Desktop/Superhans UI/Superhans UI/bin/Release/Superhans UI.exe
+/Users/luketesta/Desktop/Superhans UI/Superhans UI/obj/x86/Release/Superhans UI.exe
+/Users/luketesta/Desktop/Superhans UI/Superhans UI/obj/x86/Release/Superhans UI.exe.mdb

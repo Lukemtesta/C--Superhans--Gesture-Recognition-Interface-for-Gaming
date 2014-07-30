@@ -1,0 +1,13 @@
+C:\Users\Mum\documents\visual studio 2010\Projects\Superhans UI\Superhans UI\bin\Debug\Superhans UI.exe
+C:\Users\Mum\documents\visual studio 2010\Projects\Superhans UI\Superhans UI\bin\Debug\Superhans UI.pdb
+C:\Users\Mum\documents\visual studio 2010\Projects\Superhans UI\Superhans UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mum\documents\visual studio 2010\Projects\Superhans UI\Superhans UI\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mum\documents\visual studio 2010\Projects\Superhans UI\Superhans UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mum\documents\visual studio 2010\Projects\Superhans UI\Superhans UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mum\documents\visual studio 2010\Projects\Superhans UI\Superhans UI\obj\x86\Debug\Superhans UI.exe
+C:\Users\Mum\documents\visual studio 2010\Projects\Superhans UI\Superhans UI\obj\x86\Debug\Superhans UI.pdb
+C:\Users\Mum\documents\visual studio 2010\Projects\Superhans UI\Superhans UI\obj\x86\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\Mum\documents\visual studio 2010\Projects\Superhans UI\Superhans UI\obj\x86\Debug\WindowsFormsApplication1.CalibrationForm.resources
+C:\Users\Mum\documents\visual studio 2010\Projects\Superhans UI\Superhans UI\obj\x86\Debug\WindowsFormsApplication1.ExistingGames.resources
+C:\Users\thatguylukuss\Desktop\GitHub\Formatted\Upload\C# - Superhans, Gesture Recognition Interface for Gaming\Superhans UI - Windows Solution\Superhans UI\obj\x86\Debug\Superhans UI.exe
+C:\Users\thatguylukuss\Desktop\GitHub\Formatted\Upload\C# - Superhans, Gesture Recognition Interface for Gaming\Superhans UI - Windows Solution\Superhans UI\obj\x86\Debug\Superhans UI.pdb
